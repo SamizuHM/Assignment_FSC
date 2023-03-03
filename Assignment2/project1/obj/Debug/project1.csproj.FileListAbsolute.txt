@@ -1,0 +1,8 @@
+D:\Lecture4\软件构造C#\myCode\Assignment2\project1\obj\Debug\project1.csproj.AssemblyReference.cache
+D:\Lecture4\软件构造C#\myCode\Assignment2\project1\obj\Debug\project1.csproj.SuggestedBindingRedirects.cache
+D:\Lecture4\软件构造C#\myCode\Assignment2\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+D:\Lecture4\软件构造C#\myCode\Assignment2\project1\bin\Debug\project1.exe.config
+D:\Lecture4\软件构造C#\myCode\Assignment2\project1\bin\Debug\project1.exe
+D:\Lecture4\软件构造C#\myCode\Assignment2\project1\bin\Debug\project1.pdb
+D:\Lecture4\软件构造C#\myCode\Assignment2\project1\obj\Debug\project1.exe
+D:\Lecture4\软件构造C#\myCode\Assignment2\project1\obj\Debug\project1.pdb

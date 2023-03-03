@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5f19b8f7-107d-4332-8524-6f90563f6747": {
+      "ProjectGuid": "5f19b8f7-107d-4332-8524-6f90563f6747",
+      "DisplayName": "ConsoleCalculator",
+      "ColorIndex": 0
+    },
+    "893c556f-c4b5-4809-9b1b-39a74ca75ee8": {
+      "ProjectGuid": "893c556f-c4b5-4809-9b1b-39a74ca75ee8",
+      "DisplayName": "FormCalculator",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
